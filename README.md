@@ -5,6 +5,10 @@ data-structures-and-algorithms work, step by step. Watch every comparison,
 swap, and pointer movement, synced with the source code and live complexity
 counters.
 
+### 🔗 [**Live Demo → sanatt-gitcode.github.io/dsa-visualizer**](https://sanatt-gitcode.github.io/dsa-visualizer/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-4F8EF7?style=for-the-badge&logo=github)](https://sanatt-gitcode.github.io/dsa-visualizer/)
+
 ![stack](https://img.shields.io/badge/React-18-61dafb) ![ts](https://img.shields.io/badge/TypeScript-5-3178c6) ![tailwind](https://img.shields.io/badge/Tailwind-3-38bdf8) ![motion](https://img.shields.io/badge/Framer%20Motion-11-ff0080)
 
 ## Features
